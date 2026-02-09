@@ -1,0 +1,15 @@
+[ {
+  "patente" : "BCDF56",
+  "rutaInicio" : "Santiago",
+  "rutaFin" : "Valparaiso",
+  "horaLlegada" : "2026-02-09T14:30:00",
+  "horaSalida" : "2026-02-09T18:15:00",
+  "fechaActualizacion" : "2026-02-09T14:54:05.388097936"
+}, {
+  "patente" : "BCDF47",
+  "rutaInicio" : "Santiago",
+  "rutaFin" : "Valparaiso",
+  "horaLlegada" : "2026-02-09T14:30:00",
+  "horaSalida" : "2026-02-09T18:15:00",
+  "fechaActualizacion" : "2026-02-09T14:54:19.280706414"
+} ]
